@@ -1,0 +1,8 @@
+pandas
+pyodbc
+nltk
+scikit-learn
+transformers
+torch
+python-dotenv
+openpyxl
